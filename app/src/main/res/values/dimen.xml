@@ -6,5 +6,6 @@
     <dimen name="sp_16">16sp</dimen>
     <dimen name="sp_96">96sp</dimen>
     <dimen name="sp_36">36sp</dimen>
+    <dimen name="dp_8">8dp</dimen>
 
 </resources>
